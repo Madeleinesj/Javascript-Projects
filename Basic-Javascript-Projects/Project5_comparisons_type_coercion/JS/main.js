@@ -1,4 +1,6 @@
+document.write(typeof 3);
 document.write("22" + 9);
+document.write(2 + 2);
 document.write(-2E310);
 document.write(2E310);
 
