@@ -7,7 +7,7 @@ function Vote_Function() {
 //Example of OOP. Not meant to execute. For future create for PST process//
 // erased code from lesson as it was causing errors when rendering using "name"//
 
-Customer cust = new Customer("Brenda Smith");
+
 
 //Keywords example//
 function Vehicle(Make, Model, Year, Color) {
