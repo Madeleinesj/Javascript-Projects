@@ -12,7 +12,13 @@ function sub() {
 
 //Found Y is not defined in console.log//
 //had to delete function due to causing error for following function//
-
+function ad() {
+    var L = 2;
+    console.log(15 + L);
+}
+function ad_2() {
+    console.log(L + 5);
+}
 
 //If Statements//
 
