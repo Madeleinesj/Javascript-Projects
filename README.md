@@ -1,3 +1,3 @@
-# Javascript-Projects
+# Javascript-Projects part 1
 
-This repository will contain all of my work in the Tech Academy's Javascript course. 
+This repository contains 10 small challenges used to explore JS. 
